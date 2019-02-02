@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uschmann/zipkin-axios.git"
+    "url": "git+https://github.com/kiho/zipkin-axios.git"
   },
   "keywords": [
     "zipkin",
@@ -21,9 +21,9 @@
   "author": "Kiho Chang",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/uschmann/zipkin-axios/issues"
+    "url": "https://github.com/kiho/zipkin-axios/issues"
   },
-  "homepage": "https://github.com/uschmann/zipkin-axios#readme",
+  "homepage": "https://github.com/kiho/zipkin-axios#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "zipkin": "^0.16.0"
