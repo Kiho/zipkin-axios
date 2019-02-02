@@ -2,7 +2,7 @@
 
 This is fork of [zipkin-instrumentation-axios](https://github.com/uschmann/zipkin-instrumentation-axios), which is not maintained any more....
 
-I need this lib to upgraded to fix build warnigs.
+I need this lib to upgraded to be fixed build warnigs when used at browser.
 
 You need to inject you axios instance into **wrapAxios(axios, options)**.
 
