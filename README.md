@@ -18,6 +18,7 @@ npm install --save zipkin-axios
 // Require dependencies
 const axios = require('axios');
 const wrapAxios = require('zipkin-axios');
+const { HttpLogger } = require('zipkin-transport-http');
 const { Tracer, ExplicitContext, BatchRecorder } = require('zipkin');
 
 // Setup zipkin components
