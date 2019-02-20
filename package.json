@@ -26,6 +26,6 @@
   "homepage": "https://github.com/kiho/zipkin-axios#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "zipkin": "^0.16.0"
+    "zipkin": "~0.15.0"
   }
 }
