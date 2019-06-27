@@ -25,7 +25,12 @@
   },
   "homepage": "https://github.com/kiho/zipkin-axios#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
     "zipkin": "~0.15.0"
+  },
+  "peerDependencies": {    
+    "zipkin": "^0.15.0"
   }
 }
