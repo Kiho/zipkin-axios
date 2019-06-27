@@ -1,6 +1,6 @@
 {
   "name": "zipkin-axios",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Wrapper to instrument the axios HTTP-client",
   "main": "lib/index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   "devDependencies": {
     "zipkin": "~0.15.0"
   },
-  "peerDependencies": {    
+  "peerDependencies": {
     "zipkin": "^0.15.0"
   }
 }
